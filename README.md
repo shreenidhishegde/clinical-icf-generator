@@ -139,14 +139,28 @@ Upload and process a clinical trial protocol.
 ```json
 {
   "download_url": "/api/download_icf/?file=icf_123456.docx",
-  "generated_text": "JSON or markdown text",
   "sections": {
-    "Purpose of the Study": "...",
-    "Study Procedures": "...",
-    "Risks": "...",
-    "Benefits": "..."
+    "Purpose of the Study": {
+      "content": "...",
+      "source_pages": [1, 2]
+    },
   },
-  "log": [...]
+  "detailed_logs": [
+    {
+      "type": "section_generation",
+      "section": "Purpose of the Study",
+      "content_preview": "...",
+      "content_length": 150,
+      "contributing_pages": [
+        {
+          "page": 1,
+          "content_sample": "...",
+          "relevance_score": "ChatGPT identified"
+        }
+      ],
+      "description": "Generated 'Purpose of the Study' section using pages: 1"
+    }
+  ]
 }
 ```
 
