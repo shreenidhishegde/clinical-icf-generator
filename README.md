@@ -173,14 +173,6 @@ clinical-icf-generator/
 └── README.md
 ```
 
-## Error Handling
-
-The application includes robust error handling:
-
-- **API Failures**: Falls back to saved response data
-- **File Processing**: Handles corrupted or unsupported files
-- **JSON Parsing**: Graceful fallback to markdown parsing
-- **Network Issues**: User-friendly error messages
 
 ## Development
 
