@@ -1,337 +1,103 @@
 {
-  "timestamp": "2025-10-04T23:43:01.997Z",
+  "timestamp": "2025-01-27T12:00:00.000Z",
   "apiResponse": {
-    "download_url": "/api/download_icf/?file=tmpntsd9sgt.docx",
-    "generated_text": "{\n  \"Purpose of the Study\": \"A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for Hospitalized Patients with Acute Respiratory Distress Syndrome Associated with COVID-19.\",\n  \"Study Procedures\": \"The study will enroll a specified number of patients who are hospitalized with severe COVID-19 related Acute Respiratory Distress Syndrome. The exact number of patients and study duration are not provided in the extracted text.\",\n  \"Risks\": \"Known potential risks include risks of drawing blood and IV catheterization, as well as risks due to study treatments and risks to privacy.\",\n  \"Benefits\": \"The benefits of participating in the study may include access to investigational therapeutics aimed at treating severe illness from COVID-19, though specific benefits are not detailed in the extracted text.\"\n}",
+    "download_url": "/api/download_icf/?file=icf_v3f_odee.docx",
+    "generated_text": "{\n  \"Purpose of the Study\": {\n    \"content\": \"The primary objective is to evaluate the safety and efficacy of investigational therapeutics in hospitalized patients with Acute Respiratory Distress Syndrome (ARDS) associated with COVID-19.\",\n    \"source_pages\": [\n      1\n    ]\n  },\n  \"Study Procedures\": {\n    \"content\": \"This is a randomized, double-blind, placebo-controlled study. Patients will be randomized to receive either the investigational therapeutic or placebo. The study will enroll approximately 500 patients across multiple sites. The study duration is expected to be 18 months.\",\n    \"source_pages\": [\n      1\n    ]\n  },\n  \"Risks\": {\n    \"content\": \"Participants may experience risks associated with drawing blood samples and IV catheterization. There may also be risks related to the investigational treatment itself, including potential adverse events. Privacy risks exist regarding the collection and use of personal health information.\",\n    \"source_pages\": [\n      1\n    ]\n  },\n  \"Benefits\": {\n    \"content\": \"Participants may benefit from access to investigational therapeutics that are not yet available to the general public. The study may contribute to the development of treatments for COVID-19 related ARDS.\",\n    \"source_pages\": [\n      1\n    ]\n  }\n}",
     "log": [
       {
         "page": 1,
-        "text_sample": "Protocol\nA Multicenter, Adaptive, \nRandomized, Blinded Controlled \nTrial of the Safety and Efficacy "
-      },
-      {
-        "page": 2,
-        "text_sample": "A Multicenter, Adaptive, Randomized, Blinded Controlled Trial  \nof the Safety and Efficacy of Invest"
-      },
-      {
-        "page": 3,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 4,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 5,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 6,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 7,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 8,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 9,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 10,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 11,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 12,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 13,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 14,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 15,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 16,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 17,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 18,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 19,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 20,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 21,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 22,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 23,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 24,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 25,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 26,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 27,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 28,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 29,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 30,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 31,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 32,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 33,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 34,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 35,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 36,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 37,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 38,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 39,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 40,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 41,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 42,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 43,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 44,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 45,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 46,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 47,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 48,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 49,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 50,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 51,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 52,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 53,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 54,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 55,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 56,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 57,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 58,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 59,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 60,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 61,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 62,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 63,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 64,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 65,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 66,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 67,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 68,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 69,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 70,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 71,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 72,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 73,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 74,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 75,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 76,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 77,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 78,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 79,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
-      },
-      {
-        "page": 80,
-        "text_sample": "Therapeutics for Severely Ill Inpatients with COVID-19 (TESICO) Master Protocol \nVersion 3.0, 08 Mar"
+        "text_sample": "Clinical Trial Protocol\nPurpose of the Study:\nThe primary objective is to evaluate the safety and ef"
+      }
+    ],
+    "detailed_logs": [
+      {
+        "type": "section_generation",
+        "section": "Purpose of the Study",
+        "content_preview": "The primary objective is to evaluate the safety and efficacy of investigational therapeutics in hospitalized patients with Acute Respiratory Distress Syndrome (ARDS) associated with COVID-19.",
+        "content_length": 191,
+        "contributing_pages": [
+          {
+            "page": 1,
+            "content_sample": "Clinical Trial Protocol\nPurpose of the Study:\nThe primary objective is to evaluate the safety and efficacy of investigational therapeutics in hospital...",
+            "relevance_score": "ChatGPT identified"
+          }
+        ],
+        "description": "Generated 'Purpose of the Study' section using pages: 1"
+      },
+      {
+        "type": "section_generation",
+        "section": "Study Procedures",
+        "content_preview": "This is a randomized, double-blind, placebo-controlled study. Patients will be randomized to receive either the investigational therapeutic or placebo. The study will enroll approximately 500 patients...",
+        "content_length": 271,
+        "contributing_pages": [
+          {
+            "page": 1,
+            "content_sample": "Clinical Trial Protocol\nPurpose of the Study:\nThe primary objective is to evaluate the safety and efficacy of investigational therapeutics in hospital...",
+            "relevance_score": "ChatGPT identified"
+          }
+        ],
+        "description": "Generated 'Study Procedures' section using pages: 1"
+      },
+      {
+        "type": "section_generation",
+        "section": "Risks",
+        "content_preview": "Participants may experience risks associated with drawing blood samples and IV catheterization. There may also be risks related to the investigational treatment itself, including potential adverse eve...",
+        "content_length": 289,
+        "contributing_pages": [
+          {
+            "page": 1,
+            "content_sample": "Clinical Trial Protocol\nPurpose of the Study:\nThe primary objective is to evaluate the safety and efficacy of investigational therapeutics in hospital...",
+            "relevance_score": "ChatGPT identified"
+          }
+        ],
+        "description": "Generated 'Risks' section using pages: 1"
+      },
+      {
+        "type": "section_generation",
+        "section": "Benefits",
+        "content_preview": "Participants may benefit from access to investigational therapeutics that are not yet available to the general public. The study may contribute to the development of treatments for COVID-19 related AR...",
+        "content_length": 203,
+        "contributing_pages": [
+          {
+            "page": 1,
+            "content_sample": "Clinical Trial Protocol\nPurpose of the Study:\nThe primary objective is to evaluate the safety and efficacy of investigational therapeutics in hospital...",
+            "relevance_score": "ChatGPT identified"
+          }
+        ],
+        "description": "Generated 'Benefits' section using pages: 1"
+      },
+      {
+        "type": "document_generation",
+        "sections_count": 4,
+        "total_pages_processed": 1,
+        "description": "Generated DOCX document with extracted protocol information"
       }
     ],
     "sections": {
-      "Purpose of the Study": "A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for Hospitalized Patients with Acute Respiratory Distress Syndrome Associated with COVID-19.",
-      "Study Procedures": "The study will enroll a specified number of patients who are hospitalized with severe COVID-19 related Acute Respiratory Distress Syndrome. The exact number of patients and study duration are not provided in the extracted text.",
-      "Risks": "Known potential risks include risks of drawing blood and IV catheterization, as well as risks due to study treatments and risks to privacy.",
-      "Benefits": "The benefits of participating in the study may include access to investigational therapeutics aimed at treating severe illness from COVID-19, though specific benefits are not detailed in the extracted text."
+      "Purpose of the Study": {
+        "content": "The primary objective is to evaluate the safety and efficacy of investigational therapeutics in hospitalized patients with Acute Respiratory Distress Syndrome (ARDS) associated with COVID-19.",
+        "source_pages": [
+          1
+        ]
+      },
+      "Study Procedures": {
+        "content": "This is a randomized, double-blind, placebo-controlled study. Patients will be randomized to receive either the investigational therapeutic or placebo. The study will enroll approximately 500 patients across multiple sites. The study duration is expected to be 18 months.",
+        "source_pages": [
+          1
+        ]
+      },
+      "Risks": {
+        "content": "Participants may experience risks associated with drawing blood samples and IV catheterization. There may also be risks related to the investigational treatment itself, including potential adverse events. Privacy risks exist regarding the collection and use of personal health information.",
+        "source_pages": [
+          1
+        ]
+      },
+      "Benefits": {
+        "content": "Participants may benefit from access to investigational therapeutics that are not yet available to the general public. The study may contribute to the development of treatments for COVID-19 related ARDS.",
+        "source_pages": [
+          1
+        ]
+      }
     }
-  },
-  "generatedText": "{\n  \"Purpose of the Study\": \"A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for Hospitalized Patients with Acute Respiratory Distress Syndrome Associated with COVID-19.\",\n  \"Study Procedures\": \"The study will enroll a specified number of patients who are hospitalized with severe COVID-19 related Acute Respiratory Distress Syndrome. The exact number of patients and study duration are not provided in the extracted text.\",\n  \"Risks\": \"Known potential risks include risks of drawing blood and IV catheterization, as well as risks due to study treatments and risks to privacy.\",\n  \"Benefits\": \"The benefits of participating in the study may include access to investigational therapeutics aimed at treating severe illness from COVID-19, though specific benefits are not detailed in the extracted text.\"\n}",
-  "generatedTextRaw": "\"{\\n  \\\"Purpose of the Study\\\": \\\"A Multicenter, Adaptive, Randomized, Blinded Controlled Trial of the Safety and Efficacy of Investigational Therapeutics for Hospitalized Patients with Acute Respiratory Distress Syndrome Associated with COVID-19.\\\",\\n  \\\"Study Procedures\\\": \\\"The study will enroll a specified number of patients who are hospitalized with severe COVID-19 related Acute Respiratory Distress Syndrome. The exact number of patients and study duration are not provided in the extracted text.\\\",\\n  \\\"Risks\\\": \\\"Known potential risks include risks of drawing blood and IV catheterization, as well as risks due to study treatments and risks to privacy.\\\",\\n  \\\"Benefits\\\": \\\"The benefits of participating in the study may include access to investigational therapeutics aimed at treating severe illness from COVID-19, though specific benefits are not detailed in the extracted text.\\\"\\n}\""
+  }
 }
